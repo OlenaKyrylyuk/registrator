@@ -1,0 +1,13 @@
+.error {
+    border: 1px solid red;
+  }
+  .form-group {
+    position: relative;
+  }
+  
+  .error-span {
+    position: absolute;
+    color: red;
+    font-size: 12px;
+    left: 0;
+  }
